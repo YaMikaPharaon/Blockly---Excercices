@@ -15,5 +15,9 @@ Reproduire le jeu du plus ou du moins, l'ordinateur choisis un numéro entre 0 e
 Faite une liste avec les noms de chacun d'entre vous et votre programme doit affiché une personne au hasard.
 
 # Le bon SEO
-Dans le cadre de l'optimisation du SEO ( référencement d'un site ), vous devez compter combien de caractère il y a dans un paragraphe donné, si il y en a plus que 100 alors le SEO est correcte sinon, il faut rajouter du contenu. 
-	> Récupérer des articles sur wikipédia pour tester.
+Dans le cadre de l'optimisation du SEO ( référencement d'un site ), vous devez compter combien de caractère il y a dans un paragraphe donné, si il y en a plus que 100 alors le SEO est correcte sinon, il faut rajouter du contenu.
+> Récupérer des articles sur wikipédia pour tester.
+
+# Le devis immobilier
+Vous êtes acheteur immobilier et vous voulez acheter un terrain. 
+L'ordinateur vous demande une chose, la superficie en m2 du terrain, en sachant que le m2 coûte 100€,  l'ordinateur doit vous donner le coût total du terrain.
