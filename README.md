@@ -21,3 +21,16 @@ Dans le cadre de l'optimisation du SEO ( référencement d'un site ), vous devez
 ## Le devis immobilier
 Vous êtes acheteur immobilier et vous voulez acheter un terrain. 
 L'ordinateur vous demande une chose, la superficie en m2 du terrain, en sachant que le m2 coûte 100€,  l'ordinateur doit vous donner le coût total du terrain.
+
+## Le distributeur de boisson
+L'ordinateur est un distributeur de boisson et vous propose des boissons à des prix différents 
+
+|NOM             |PRIX      |
+|----------------|----------|
+|COCA-COLA       |1.2 €     |
+|FANTA           |1.3 €     |
+|ORANGINA        |1.4 €     |
+|PEPSI           |1.4 €     |
+|ALOE VERA       |2 €       |
+
+Vous avez uniquement 2 €, l'ordinateur vous demande de choisir la boisson que vous voulez avec un numéro, en fonction du numéro de la boisson affiché la monnaie qu'il vous reste.
